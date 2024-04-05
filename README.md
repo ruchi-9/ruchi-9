@@ -23,6 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 |[SQL Challenges](https://github.com/ruchi-9/8-Week-SQL-Challenge) | Data analysis, data cleaning, data transformation | This repo serves as the solution for the case studies from the [#SQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. | 
+|[Music Store Data Analysis](https://github.com/ruchi-9/MUSIC-STORE-DATA-ANALYSIS) | Data analysis | A project which give business question related to popular music Genre, best customer for different country| 
 
 # Tableau
 
