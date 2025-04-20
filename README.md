@@ -29,7 +29,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Project Description| Dashboard Link | 
 |---|---|---|
-| [GIS Analytics Dashboard using Tableau ]() | The map should show a total profit by postal code, colorized by profit ratio, and sized by total sales. Furthermore, this map should also show regions across the United States.| [Dashboard](https://public.tableau.com/app/profile/ruchi6249/viz/shared/WFCY3NXRT) |
+| [GIS Analytics Dashboard using Tableau ]() | The map should show a total profit by postal code, colorized by profit ratio, and sized by total sales. Furthermore, this map should also show regions across the United States.| [Dashboard](https://public.tableau.com/views/DualLayerMaps_16286835677780/Sheet1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
 
 ***
 
